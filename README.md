@@ -1,6 +1,6 @@
 # Hi, I'm <Habtamu_Teklehana>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate developer from Ethiopia, driven by a deep curiosity for technology and a commitment to solving real-world challenges through domain-driven problem-solving strategies. I have developed various systems in four different programming languages, successfully deploying them on client servers. I love exploring new ideas, testing possibilities, and sharing my insights with the community.
 
 <!-- ![<Habtamu>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
