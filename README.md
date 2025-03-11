@@ -6,7 +6,6 @@ I am a passionate developer from Ethiopia, driven by a deep curiosity for techno
 
 ## 🚀 About Me
 
-- 🔭 I have complited my Master's in Computer Science.
 - 🎍 I have develop websites in different languages and are already deployed
     - web Tech
         -   Django
